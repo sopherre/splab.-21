@@ -5,6 +5,7 @@ export default function Home() {
   return (
     <main className={styles.main}>
       <h1>splab.-21</h1>
+      <div>branch2追加</div>
       {/* <div className={styles.description}>
         <p>
           Get started by editing&nbsp;
